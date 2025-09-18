@@ -154,7 +154,6 @@ if st.button("💡 My Teaching Philosophy"):
         <li>🌟 <b>Inspire Creativity</b>: Encourage students to express their emotions and stories through music, fostering a personal connection.</li>
         <li>💻 <b>Integrate Technology</b>: Use digital tools and AI to create interactive, modern learning experiences.</li>
         <li>🎵 <b>Personalized Learning</b>: Tailor lessons to each student’s unique style, helping them discover their musical voice.</li>
-        <li>🌍 <b>Cultural Connection</b>: Weave diverse musical traditions into lessons to broaden students’ perspectives and appreciation.</li>
         </ul>
         """
     )
